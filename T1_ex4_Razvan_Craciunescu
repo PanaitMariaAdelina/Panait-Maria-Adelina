@@ -1,4 +1,6 @@
-%Exercitiul 4- semnal sinusoidal redresat mono alternanta
+%Exercitiul 4- Semnal sinusoidal redresat mono alternanta
+
+
 t1=0:0.2:10;
 s1=abs(1.5*sin(2*pi*0.25*t1));
 subplot(3,1,1)
